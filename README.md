@@ -135,8 +135,8 @@ You'll need API keys from the following services (all offer free tiers):
 
 ### Quick Install (Linux/Termux)
 
-```bash
-# Clone the repository
+bash
+#Clone the repository
 git clone https://github.com/abdulcybort/ReconMaster.git
 cd ReconMaster
 
@@ -760,4 +760,4 @@ If you find this tool useful, please give it a ⭐ on GitHub!
 
 Report Bug · Request Feature · Documentation
 
-</div> ```
+</div> 
