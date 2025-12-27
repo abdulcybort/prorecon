@@ -673,6 +673,12 @@ Open source contributors and maintainers
 This project is licensed under the MIT License.
 MIT License
 
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+MIT License
+
 Copyright (c) 2024 Abdulbasid Yakubu | cy30rt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -694,62 +700,89 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 📞 Support & Contact
 Getting Help
-Issues: GitHub Issues
+GitHub Issues: Report bugs or request features
 
-Discussions: GitHub Discussions
+GitHub Discussions: Join the community discussion
 
-Documentation: This README and included guides
+Documentation: This README serves as comprehensive documentation
 
 Reporting Bugs
-When reporting bugs, please include:
+When reporting bugs, please include the following information:
 
-Python version
+Python Version: python3 --version or python --version
 
-Operating system (Kali/Termux/Other)
+Operating System: Kali Linux, Termux (Android), Ubuntu, etc.
 
-Complete error message
+Complete Error Message: Copy-paste the full error traceback
 
-Steps to reproduce
+Steps to Reproduce: Exact commands and inputs used
 
-Expected vs actual behavior
+Expected vs Actual Behavior: What you expected vs what happened
 
 📈 Roadmap
-Planned Features
-Additional API integrations (Censys, Hunter.io, etc.)
+🚀 Planned Features
+Additional API Integrations: Censys, Hunter.io, BuiltWith, etc.
 
-Parallel API query execution
+Parallel Execution: Multi-threaded API queries for faster results
 
-Multiple export formats (CSV, HTML, PDF reports)
+Export Formats: CSV, HTML, PDF reports with templates
 
-Web-based GUI interface
+Web Interface: Browser-based GUI for easier usage
 
-Automated reporting with templates
+Automated Reporting: Generate professional PDF reports
 
-Result caching mechanism
+Result Caching: Local database to avoid duplicate API calls
 
-Proxy and Tor support
+Proxy Support: Rotating proxies and Tor integration
 
-Custom module system
+Custom Modules: Plugin system for user-created modules
 
-Scheduled scans
+Scheduled Scans: Automated periodic reconnaissance
 
-Integration with other tools
+Tool Integration: Export to Burp Suite, Nmap, etc.
 
-Version History
+📋 Version History
 v1.0.0 (Current) - Initial release with core functionality
 
+v1.1.0 (Planned) - Performance improvements and bug fixes
+
+v1.2.0 (Planned) - Additional API integrations
+
+v2.0.0 (Future) - Major rewrite with advanced features
+
 🌟 Support the Project
-If you find ReconMaster useful:
+If you find ReconMaster useful for your bug bounty hunting or security research:
 
-⭐ Star this repository on GitHub
+⭐ Star the Repository
+Give the project a star on GitHub to show your support and help others discover it.
 
-🐛 Report bugs and suggest features
+🐛 Report Issues
+Found a bug? Have a feature request? Open an issue on GitHub.
 
-🤝 Contribute code improvements
+🤝 Contribute
+Submit pull requests with improvements
 
-📢 Share with the security community
+Add new API integrations
 
-📝 Write about your experience using it
+Improve documentation
+
+Share your use cases
+
+📢 Spread the Word
+Share on social media (Twitter, LinkedIn, Reddit)
+
+Mention in bug bounty communities
+
+Write blog posts or tutorials
+
+Include in your security toolkit lists
+
+☕ Support the Developer
+Follow on GitHub for updates
+
+Connect on professional networks
+
+Share feedback and suggestions
 
 <div align="center">
 Made with ❤️ by Abdulbasid Yakubu | cy30rt
@@ -758,6 +791,32 @@ For Bug Bounty Hunters, By a Bug Bounty Hunter
 
 If you find this tool useful, please give it a ⭐ on GitHub!
 
-Report Bug · Request Feature · Documentation
+Report Bug ·
+Request Feature ·
+View Documentation
+
+📢 Join the Community
+
+Share your success stories
+
+Submit your improvements
+
+Help others learn reconnaissance
+
+🔐 Stay Ethical
+
+Always get proper authorization
+
+Respect rate limits and ToS
+
+Follow responsible disclosure
+
+🚀 Keep Learning
+
+Continuous improvement is key
+
+Share knowledge with others
+
+Build a safer internet together
 
 </div> 
