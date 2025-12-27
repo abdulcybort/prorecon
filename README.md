@@ -1,4 +1,4 @@
- 🔍 ReconMaster
+# 🔍 ReconMaster
 
 <div align="center">
 
@@ -270,7 +270,6 @@ Basic Usage
 bash
 python3 recon_master.py -t TARGET
 Command Line Options
-text
 Options:
   -h, --help            Show help message and exit
   -t TARGET, --target TARGET
@@ -289,10 +288,8 @@ ip: Forces IP-based reconnaissance workflow
 domain: Forces domain-based reconnaissance workflow
 
 Termux Usage Note: Use python instead of python3:
-
-bash
 python recon_master.py -t example.com
-🔌 API Integration
+ API Integration
 API Capabilities
 API	Free Tier	Rate Limit	Capabilities
 Shodan	✅ Yes	Varies	Port scanning, service detection, vulnerabilities
@@ -354,8 +351,7 @@ Run Setup Wizard
 bash
 python3 recon_master.py --setup
 Example Output
-text
-    ╦═╗╔═╗╔═╗╔═╗╔╗╔  ╔╦╗╔═╗╔═╗╔╦╗╔═╗╦═╗
+   ╦═╗╔═╗╔═╗╔═╗╔╗╔  ╔╦╗╔═╗╔═╗╔╦╗╔═╗╦═╗
     ╠╦╝║╣ ║  ║ ║║║║  ║║║╠═╣╚═╗ ║ ║╣ ╠╦╝
     ╩╚═╚═╝╚═╝╚═╝╝╚╝  ╩ ╩╩ ╩╚═╝ ╩ ╚═╝╩╚═
 
@@ -675,8 +671,6 @@ Open source contributors and maintainers
 
 📄 License
 This project is licensed under the MIT License.
-
-text
 MIT License
 
 Copyright (c) 2024 Abdulbasid Yakubu | cy30rt
