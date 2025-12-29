@@ -1,5 +1,5 @@
-<center>
-#y# 🔍 ReconMaster - Advanced Reconnaissance To
+<div style="text-align: center;">
+ 🔍 ReconM s er - Adv nced Reconnais an
 
 ![Version](https://img.shields.io/badge/version-3.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
