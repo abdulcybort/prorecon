@@ -67,7 +67,7 @@ ProRecon is a comprehensive reconnaissance tool designed for bug bounty hunters,
 
 ```bash
 # Clone the repository
-git clone https://github.com/cy30rt/prorecon.git
+git clone https://github.com/abdulcybort/prorecon.git
 cd prorecon
 
 # Run the installation script
@@ -87,7 +87,7 @@ pkg update && pkg upgrade
 
 # Clone the repository
 pkg install git
-git clone https://github.com/cy30rt/prorecon.git
+git clone https://github.com/abdulcybort/prorecon.git
 cd prorecon
 
 # Run Termux installer
@@ -620,7 +620,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Abdulbasid Yakubu | cy30rt**
 
-- 🐙 GitHub: [@cy30rt](https://github.com/abdlcybort)
+- 🐙 GitHub: [@cy30rt](https://github.com/abdulcybort)
 - 🐦 Twitter: [@cy30rt](https://twitter.com/cy30rt)
 - 📧 Email: contact@abdulcybort.com
 - 🌐 Website: [cy30rt.com](https://cy30rt.com)
@@ -641,13 +641,8 @@ If you find ProRecon useful, please consider:
 - ☕ **Buy me a coffee** - Supports development
 
 ### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=cy30rt/prorecon&type=Date)](https://star-history.com/#cy30rt/prorecon&Date)
-
-
-## 📝 Changelog
-
-### Version 2.0.0 (2024-01-29) - Current Release
-- ✨ Complete rewrite for production readiness
+[![Star History Chart](https://api.star-history.com/svg?repos=abdulcybort/prorecon&type=Date)](https://star-history.com/#abdulcybort/prorecon&Date)
+ry.com/#abdulcybort/prom/#cy30/prom/#cy30r/pror### Version 2.0.0 (2024-01-024-01-29) - Current Releaseuction readiness
 - 🚀 Multi-threaded scanning engine (50x faster)
 - 🔒 SSL/TLS certificate analysis
 - 🌐 Enhanced subdomain enumeration (4 sources)
