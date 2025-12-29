@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- 🔍 ReconM s er - Adv nced Reconnais an
+ 🔍 ReconMaster - Advanced - Reconnaissances
 
 ![Version](https://img.shields.io/badge/version-3.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
@@ -11,7 +11,6 @@
 **Professional Bug Bounty & Penetration Testing Reconnaissance Tool**  
 *Automated subdomain enumeration, port scanning, technology detection, and threat intelligence gathering*
 
----
 
 ## ✨ Features
 
